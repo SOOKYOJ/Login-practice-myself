@@ -6,7 +6,7 @@ function Login() {
 
   const [id, setId] = useState('');
   const [pw, setPw] = useState('');
-  햣;
+
   const handleId = (e) => {
     setId(e.target.value);
   };
